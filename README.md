@@ -151,7 +151,7 @@ http://localhost/pages/accueil.html
 
 ## Fonctionnalités par rôle
 
-### 👤 Client
+### Client
 | Fonctionnalité | Description |
 |----------------|-------------|
 | Inscription | Création de compte avec nom, email, téléphone, CB, adresse |
@@ -161,7 +161,7 @@ http://localhost/pages/accueil.html
 | Profil | Historique commandes, annulation, notation, parrainage |
 | Points fidélité | +50 pts par commande, bonus parrainage |
 
-### 🚴 Livreur
+### Livreur
 | Fonctionnalité | Description |
 |----------------|-------------|
 | Connexion | Authentification par matricule + mot de passe |
@@ -171,7 +171,7 @@ http://localhost/pages/accueil.html
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 | Technologie | Usage |
 |-------------|-------|
@@ -184,13 +184,13 @@ http://localhost/pages/accueil.html
 
 ---
 
-## 📄 Documentation
+## Documentation
 
 Le rapport complet du projet est disponible dans `rapport_Enjoy.pdf`.
 
 ---
 
-## 👤 Auteur
+## Auteur
 
 **Nelson Camara** — Étudiant en Master Informatique
 
